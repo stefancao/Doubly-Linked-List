@@ -1,0 +1,9 @@
+1) compile it
+	javac Main.java
+
+2) Run it
+	java Main numberFile.txt	// to run the test cases with numbers
+
+	or
+
+	java Main words5.dict		// to run the test cases with strings
